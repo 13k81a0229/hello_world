@@ -1,3 +1,5 @@
 # hello_world
 just another repository
-i like new features 
+I like new features 
+Iam the owner of this World 
+I can handle many things
